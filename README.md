@@ -15,5 +15,5 @@
  
  > Diamond Pattern
 <br>
-<img height ="150" src=" https://cloud.githubusercontent.com/assets/16682706/19418671/c7d3a262-93f2-11e6-95b7-279e88327a93.png"/>
+<img height ="150" src="https://cloud.githubusercontent.com/assets/16682706/19418671/c7d3a262-93f2-11e6-95b7-279e88327a93.png"/>
 </br>
